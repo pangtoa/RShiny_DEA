@@ -1,8 +1,7 @@
-# RShiny_DEA
+# ShinyDEA
 
 A Shiny app for implementing DEA models
-- ShinyDEA: https://dhbang.shinyapps.io/ShinyDEA/
+- Access the ShinyDEA app here: https://dhbang.shinyapps.io/ShinyDEA/
 
-This provides basic static models, such as CCR, BCC, and slack-based model (SBM),and also provides a dynamic model. Malmquist Productivity Index (MPI).
-Extended models Two-stage Network Model, General Network Model, and alternative Malmquist indexes , will be added in the future.
-
+This app enables easy implementation of fundamental Data Envelopment Analysis (DEA) models, including CCR, BCC, the slack-based model (SBM), and the Malmquist Productivity Index (MPI).
+Future updates will include extended models such as the Two-stage Network DEA, Multi-stage Network DEA, Network DEA with shared-inputs, and alternative Malmquist models.
